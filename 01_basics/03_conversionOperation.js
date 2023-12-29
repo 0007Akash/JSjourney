@@ -37,5 +37,7 @@ console.log(numberValue);
 
 // null => 0 in number & undefined => NaN
 
+// *************************** Operations *************************
+
 
 
